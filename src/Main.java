@@ -10,6 +10,7 @@ public class Main {
             int end = matcher.end();
             System.out.println(text.substring(start, end));
             System.out.println(text.substring(start, end));
+            System.out.println(text.substring(start, end));
         }
     }
 }
